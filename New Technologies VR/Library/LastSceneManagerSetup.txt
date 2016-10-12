@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/balkscene_V1_Test.unity
+- path: Assets/Testscene_Canyon_02_Breed.unity
   isLoaded: 1
   isActive: 1
